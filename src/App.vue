@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <h1>vite 我就要1</h1>
+  <h1>vite 我就要12</h1>
 </template>
 
 <style scoped>
