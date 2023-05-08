@@ -3,7 +3,11 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+<<<<<<< HEAD
   <h1>vite 測試成功2new</h1>
+=======
+  <h1>vite 測試成功3</h1>
+>>>>>>> fd4749c (3)
 </template>
 
 <style scoped>
