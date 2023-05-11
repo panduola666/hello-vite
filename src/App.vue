@@ -4,7 +4,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <h1>vite 測試成功41</h1>
-  <h1>vite 測試成功5</h1>
   <h1>vite 測試成功4</h1>
 </template>
 
